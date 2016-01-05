@@ -1,1 +1,0 @@
-/home/jadeszek/.zshenv
