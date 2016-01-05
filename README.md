@@ -1,2 +1,2 @@
 # configs
-Repo for sync my config files for some Linux apps. 
+Repo for sync my config files of some Linux apps. 
