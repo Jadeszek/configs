@@ -1,5 +1,10 @@
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
+export PATH="/home/jadeszek/android/android-sdk-linux/platform-tools:$PATH"
+
+#alias for missing path elements when using sudo
+#alias sudo='sudo env PATH=$PATH'
+
 
 # DEFAULT_USER="jadeszek"
 
